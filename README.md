@@ -17,7 +17,13 @@ Tesseract
 4. Provide inputs to the script and execute it.
 
 ![1aut](https://user-images.githubusercontent.com/74459400/185441314-7abe2a8e-0432-440f-8c70-0ba9d6fc68eb.png)
+                                                                 
+                                                                 
 
 ![2aut](https://user-images.githubusercontent.com/74459400/185441386-26d49390-6b80-42bf-aa2c-7a9e3dcc4a82.png)
-
-
+                                               
+                                                         
+                                                                      
+                                                                        
+# Working Prototype
+https://user-images.githubusercontent.com/74459400/185447548-6a3c97c3-9d09-44ab-b6a9-7f3a42df2bba.mp4
