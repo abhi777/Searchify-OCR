@@ -16,6 +16,9 @@ Tesseract
 3. Run the Python Script using terminal or cmd.
 4. Provide input to the script and execute it.
 
+                                
+# Screenshots
+
 ![1aut](https://user-images.githubusercontent.com/74459400/185441314-7abe2a8e-0432-440f-8c70-0ba9d6fc68eb.png)
                                                                  
                                                                  
@@ -25,5 +28,5 @@ Tesseract
                                                          
                                                                       
                                                                         
-# Working Prototype
+# Working
 https://user-images.githubusercontent.com/74459400/185447548-6a3c97c3-9d09-44ab-b6a9-7f3a42df2bba.mp4
