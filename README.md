@@ -11,10 +11,10 @@ requirements.txt
 Tesseract
 
 # Usage
-1. Download the Repository using " git clone https://github.com/abhi750/Searchify-OCR.git" from the terminal or by downloading the archive from above.
+1. Download the Repository using "git clone https://github.com/abhi750/Searchify-OCR.git" from the terminal or by downloading the archive from above.
 2. Install requirements.txt by executing "pip install -r requirements.txt" in cmd or in the terminal of your Code Editor.
 3. Run the Python Script using terminal or cmd.
-4. Provide inputs to the script and execute it.
+4. Provide input to the script and execute it.
 
 ![1aut](https://user-images.githubusercontent.com/74459400/185441314-7abe2a8e-0432-440f-8c70-0ba9d6fc68eb.png)
                                                                  
