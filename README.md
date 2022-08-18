@@ -7,7 +7,7 @@ The user need to input the link of the search engine in the dialog box which is 
 # Requirements
 Windows OS                   
 Python                  
-requirements.txt
+requirements.txt                 
 Tesseract
 
 # Usage
