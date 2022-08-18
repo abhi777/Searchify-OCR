@@ -1,4 +1,4 @@
-# Searchify-OCR
+# Searchify-OCR V1.0.3
 
 This is a GUI based Automation Tool developed using Python to Automate the task of extraction of text from the screenshot copied in the clipboard and searching the extracted text on the default Web Browser of the user.                       
 
